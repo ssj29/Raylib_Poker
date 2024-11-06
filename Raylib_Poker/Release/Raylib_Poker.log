@@ -1,0 +1,5 @@
+﻿  InitGame.cpp
+InitGame.obj : error LNK2001: unresolved external symbol _sqlite3_open
+InitGame.obj : error LNK2001: unresolved external symbol _sqlite3_close
+InitGame.obj : error LNK2001: unresolved external symbol _sqlite3_errmsg
+C:\Users\sdhawane\source\repos\Raylib_Poker\Release\Raylib_Poker.exe : fatal error LNK1120: 3 unresolved externals

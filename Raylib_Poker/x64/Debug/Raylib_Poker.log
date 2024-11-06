@@ -1,0 +1,18 @@
+﻿  EndingPage.cpp
+  InGamePage.cpp
+  InitGame.cpp
+  Main.cpp
+  MenuPage.cpp
+  Cards.cpp
+  Deck.cpp
+  MainMenu.cpp
+  Player.cpp
+  Table.cpp
+C:\Users\sdhawane\source\repos\Raylib_Poker\Raylib_Poker\PokerNew\Table.cpp(270,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  WelcomePage.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+InitGame.obj : error LNK2019: unresolved external symbol sqlite3_close referenced in function "public: __cdecl InitGame::InitGame(void)" (??0InitGame@@QEAA@XZ)
+InitGame.obj : error LNK2019: unresolved external symbol sqlite3_open referenced in function "public: __cdecl InitGame::InitGame(void)" (??0InitGame@@QEAA@XZ)
+InitGame.obj : error LNK2019: unresolved external symbol sqlite3_errmsg referenced in function "public: __cdecl InitGame::InitGame(void)" (??0InitGame@@QEAA@XZ)
+C:\Users\sdhawane\source\repos\Raylib_Poker\x64\Debug\Raylib_Poker.exe : fatal error LNK1120: 3 unresolved externals
